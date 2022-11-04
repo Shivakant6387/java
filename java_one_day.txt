@@ -1,0 +1,16 @@
+					MAP
+
+   				MAP of the implements
+				   1 HashMap
+				   2 TreeMap
+				   3 EnumMap
+				   4 LinkedHashMap
+				   5 WeakHashMap
+				MAP of the extends
+				   1 SortedMap
+				   2 NavigableMap
+				   3 ConcurrentMap
+				
+			2 Difference between comparable and comparator 
+			3 equals() and hashCode() methods of object class
+			4 difference between equals() and hashcode() methods of object class
